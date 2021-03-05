@@ -6,3 +6,4 @@
 
 ### **First part - [Click](https://github.com/k2wln/test-task-1)**
 ### **Second part(2/3 site) - [Click](https://github.com/k2wln/test-task-3)**
+### **Second part(3/3 site) - [Click](https://github.com/k2wln/test-task-4)**
