@@ -1,7 +1,7 @@
 # Test report https://sff.innoscripta.com/
 
-## The site was tested. It was carried out without documentation by the method Ad-Hoc
-05.03.2021 01:00 - 05.03.2021 05:30 Ad-Hoc testing has been carried out for https://sff.innoscripta.com/
+## The site was tested. It was carried out without documentation by the method Ad-Hoc, Stress, Usability
+05.03.2021 01:00 - 05.03.2021 05:30 Ad-Hoc, Stress, Usability testing has been carried out for https://sff.innoscripta.com/
 
 Spent on testing: 4 hours 30 minutes
 
